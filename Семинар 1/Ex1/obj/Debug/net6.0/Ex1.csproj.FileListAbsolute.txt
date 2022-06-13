@@ -1,0 +1,15 @@
+/Users/a.velmezov/Documents/Алексей В/Семинар 1/Ex1/obj/Debug/net6.0/Ex1.csproj.AssemblyReference.cache
+/Users/a.velmezov/Documents/Алексей В/Семинар 1/Ex1/obj/Debug/net6.0/Ex1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a.velmezov/Documents/Алексей В/Семинар 1/Ex1/obj/Debug/net6.0/Ex1.AssemblyInfoInputs.cache
+/Users/a.velmezov/Documents/Алексей В/Семинар 1/Ex1/obj/Debug/net6.0/Ex1.AssemblyInfo.cs
+/Users/a.velmezov/Documents/Алексей В/Семинар 1/Ex1/obj/Debug/net6.0/Ex1.csproj.CoreCompileInputs.cache
+/Users/a.velmezov/Documents/Алексей В/Семинар 1/Ex1/bin/Debug/net6.0/Ex1
+/Users/a.velmezov/Documents/Алексей В/Семинар 1/Ex1/bin/Debug/net6.0/Ex1.deps.json
+/Users/a.velmezov/Documents/Алексей В/Семинар 1/Ex1/bin/Debug/net6.0/Ex1.runtimeconfig.json
+/Users/a.velmezov/Documents/Алексей В/Семинар 1/Ex1/bin/Debug/net6.0/Ex1.dll
+/Users/a.velmezov/Documents/Алексей В/Семинар 1/Ex1/bin/Debug/net6.0/Ex1.pdb
+/Users/a.velmezov/Documents/Алексей В/Семинар 1/Ex1/obj/Debug/net6.0/Ex1.dll
+/Users/a.velmezov/Documents/Алексей В/Семинар 1/Ex1/obj/Debug/net6.0/refint/Ex1.dll
+/Users/a.velmezov/Documents/Алексей В/Семинар 1/Ex1/obj/Debug/net6.0/Ex1.pdb
+/Users/a.velmezov/Documents/Алексей В/Семинар 1/Ex1/obj/Debug/net6.0/Ex1.genruntimeconfig.cache
+/Users/a.velmezov/Documents/Алексей В/Семинар 1/Ex1/obj/Debug/net6.0/ref/Ex1.dll
